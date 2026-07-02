@@ -1,0 +1,9 @@
+color = 0x2b2d31
+icon = "https://cdn.discordapp.com/attachments/1419370567009828969/1446850789107826779/Gumball.webp"
+bot_link = "https://discord.com/oauth2/authorize?client_id=1419347731545329744"
+support_link = "https://discord.gg/TG26Tfn2eD"
+TOPGG_TOKEN = ""
+SPOTIFY_CLIENT_SECRET = ""
+SPOTIFY_CLIENT_ID = ""
+LASTFM_API_KEY = ""
+LASTFM_SHARED_SECRET = ""
